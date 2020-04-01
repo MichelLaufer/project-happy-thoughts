@@ -8,5 +8,7 @@ Tech:
 
 I was using useState and useEffect. I created a separate component for the form in which the user can submit "happy thoughts" by writing a message in the text-area and clicking on a submit button. I created another component for "HappyPosts" (the 20 latest posts) and another component for a like-button. 
 
+Backend-repo: https://github.com/MichelLaufer/project-happy-thoughts-api
+
 Deployed project: 
 https://michel-happy-thoughts.netlify.com/
